@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Vaibhav-2402
+- 👋 Hi, I’m Vaibhav Kumar
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning Data structures And Algorithms
 - 💞️ I’m looking to collaborate on Web development Projects
