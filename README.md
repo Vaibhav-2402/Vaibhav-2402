@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Vaibhav Kumar
-- 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Data structures And Algorithms
-- 💞️ I’m looking to collaborate on Web development Projects
+- 👀 I’m interested in Artificial Intelligence, Machine Learning and Data Analytics
+- 🌱 I’m currently learning Machine Learning
+- 💞️ I’m looking to collaborate on Machine Learning Projects
 - 📫 U can reach me on LinkedIn @https://www.linkedin.com/in/vaibhav-kumar-910328244/ 
